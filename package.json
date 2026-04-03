@@ -3,6 +3,9 @@
   "version": "0.1.0",
   "description": "Interactive CLI wizard for generating GL.iNet/OpenWrt DHCP option configuration",
   "type": "module",
+  "engines": {
+    "node": ">=22"
+  },
   "bin": {
     "glinet-dhcp-wizard": "./src/cli.js"
   },

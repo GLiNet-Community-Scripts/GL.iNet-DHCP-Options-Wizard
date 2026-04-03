@@ -11,6 +11,18 @@ The tool does not connect to your router. It collects inputs, validates common D
 
 - Node.js 22 or newer
 
+## Install
+
+```bash
+npm install -g git+https://github.com/zippyy/GL.iNet-DHCP-Options-Wizard.git
+```
+
+Then run:
+
+```bash
+glinet-dhcp-wizard
+```
+
 ## Run
 
 ```bash
